@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Analysis code for: Tissue-level and cell-intrinsic inflammatory signals diverge with SLC7A7 expression in glioma-associated microglia"
+abstract: >-
+  Scripts for a four-layer analysis of SLC7A7 in glioma-associated myeloid
+  cells: bulk survival across four cohorts, donor-level single-cell analysis of
+  the GBmap atlas, tumor-level spatial transcriptomics, and a BV2 overexpression
+  experiment.
+type: software
+license: MIT
+repository-code: "https://github.com/vegesion/SLC7A7_glioma_microglia"
+keywords:
+  - glioma
+  - tumor-associated myeloid cells
+  - SLC7A7
+  - amino acid transport
+  - single-cell RNA sequencing
+  - spatial transcriptomics
+authors:
+  - family-names: Kang
+    given-names: Junseo
+  - family-names: Kim
+    given-names: Chanwoo
+  - family-names: Wen
+    given-names: Jing
+  - family-names: Go
+    given-names: Heesu
+  - family-names: Lee
+    given-names: Tae-Kyeong
+  - family-names: Hong
+    given-names: Jinpyo
+  - family-names: Oh
+    given-names: Sang Ha
+  - family-names: Kim
+    given-names: Dong Woon
